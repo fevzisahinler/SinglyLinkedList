@@ -1,2 +1,3 @@
 # SinglyLinkedList
-Singly Linked List
+
+Tek Yönlü Linked List 
