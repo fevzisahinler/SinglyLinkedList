@@ -60,11 +60,11 @@ public class SinglyLinkedList {
    //countNodes()  kaç eleman olduğunu sayıcak 
     public int countNodes() {    
         int count = 0;    
-        //Node current will point to head    
+        //current headi göstericek   
         Node current = head;    
             
         while(current != null) {    
-            //Increment the count by 1 for each node    
+            //Her düğüm için countu 1 arttırır
             count++;    
             current = current.next;    
         }    
